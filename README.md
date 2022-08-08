@@ -30,4 +30,5 @@ $ go run main.go
 
 - GET `/<shortcode>`
   
+  For example, GET `http://localhost:8000/abc` should take you to Google!
   Returns an HTTP 304 to the URL Stored at that Shortcode.
